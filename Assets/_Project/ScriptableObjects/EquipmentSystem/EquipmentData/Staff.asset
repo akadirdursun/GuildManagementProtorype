@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51ad8e53c0274e1b8c37f00479395d63, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  id: d73a0c9b-2e2d-4f56-8a48-c1923c35d48c
+  itemName: Staff
+  description: Magic, wooaaa...
+  maxStackSize: 1
+  icon: {fileID: 0}
+  equipmentType: 5
+  craftingPointData: {fileID: 11400000, guid: dd1144ff35a34834587f246395ccd123, type: 2}
+  mesh:
+    name: 
+    maleMesh: {fileID: 0}
+    femaleMesh: {fileID: 0}
+  craftCost: 30
+  baseStaminaForCraft: 4
+  baseQualityPoint: 25
+  gradeConfigs:
+  - grade: 0
+    maxDurability: 100
+    guaranteedStatTypes:
+    - statType: 14
+      scaledCharacterAttributeType: 5
+      scaleValue: 0
+    possibleStatTypes: []
+    possibleStatProbability: 0
+  - grade: 1
+    maxDurability: 200
+    guaranteedStatTypes:
+    - statType: 14
+      scaledCharacterAttributeType: 5
+      scaleValue: 0
+    possibleStatTypes: []
+    possibleStatProbability: 0
+  - grade: 2
+    maxDurability: 300
+    guaranteedStatTypes:
+    - statType: 14
+      scaledCharacterAttributeType: 5
+      scaleValue: 0
+    possibleStatTypes: []
+    possibleStatProbability: 0
+  - grade: 3
+    maxDurability: 500
+    guaranteedStatTypes:
+    - statType: 14
+      scaledCharacterAttributeType: 5
+      scaleValue: 0
+    possibleStatTypes: []
+    possibleStatProbability: 0
+  - grade: 4
+    maxDurability: 750
+    guaranteedStatTypes:
+    - statType: 14
+      scaledCharacterAttributeType: 5
+      scaleValue: 0
+    possibleStatTypes: []
+    possibleStatProbability: 0
+  - grade: 5
+    maxDurability: 1000
+    guaranteedStatTypes:
+    - statType: 14
+      scaledCharacterAttributeType: 5
+      scaleValue: 0
+    possibleStatTypes: []
+    possibleStatProbability: 0
+  - grade: 6
+    maxDurability: 1500
+    guaranteedStatTypes:
+    - statType: 14
+      scaledCharacterAttributeType: 5
+      scaleValue: 0
+    possibleStatTypes: []
+    possibleStatProbability: 0

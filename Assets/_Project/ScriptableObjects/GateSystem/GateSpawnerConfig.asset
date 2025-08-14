@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fedd6415a4564c88b78c02fa77a72a28, type: 3}
+  m_Name: GateSpawnerConfig
+  m_EditorClassIdentifier: 
+  dateData: {fileID: 11400000, guid: 22fe6a34170bd2448bf426258671aefc, type: 2}
+  characterDatabase: {fileID: 11400000, guid: a8a7eacdc1a96774cad44e5362865599, type: 2}
+  gateData:
+  - grade: 0
+    minGateAreaAmount: 1
+    maxGateAreaAmount: 5
+    maxPartySize: 5
+    combatRoomPercentage: 0.75
+    enemyCreators:
+    - {fileID: 11400000, guid: e4d916eb2ff7b8b47a0551596fdd66a8, type: 2}
+    minEnemyAmount: 5
+    maxEnemyAmount: 20
+    baseMultiplier: 1
+    resourceInfos:
+    - resourceType: 1
+      minAmount: 5
+      maxAmount: 20
+  - grade: 1
+    minGateAreaAmount: 3
+    maxGateAreaAmount: 7
+    maxPartySize: 8
+    combatRoomPercentage: 0.75
+    enemyCreators:
+    - {fileID: 11400000, guid: e4d916eb2ff7b8b47a0551596fdd66a8, type: 2}
+    minEnemyAmount: 10
+    maxEnemyAmount: 25
+    baseMultiplier: 0.9
+    resourceInfos:
+    - resourceType: 1
+      minAmount: 20
+      maxAmount: 40
+    - resourceType: 2
+      minAmount: 5
+      maxAmount: 10
+  - grade: 2
+    minGateAreaAmount: 5
+    maxGateAreaAmount: 10
+    maxPartySize: 10
+    combatRoomPercentage: 0.8
+    enemyCreators:
+    - {fileID: 11400000, guid: e4d916eb2ff7b8b47a0551596fdd66a8, type: 2}
+    minEnemyAmount: 15
+    maxEnemyAmount: 30
+    baseMultiplier: 0.8
+    resourceInfos:
+    - resourceType: 1
+      minAmount: 40
+      maxAmount: 60
+    - resourceType: 2
+      minAmount: 10
+      maxAmount: 20
+  - grade: 3
+    minGateAreaAmount: 7
+    maxGateAreaAmount: 12
+    maxPartySize: 15
+    combatRoomPercentage: 0.8
+    enemyCreators:
+    - {fileID: 11400000, guid: e4d916eb2ff7b8b47a0551596fdd66a8, type: 2}
+    minEnemyAmount: 20
+    maxEnemyAmount: 35
+    baseMultiplier: 0.7
+    resourceInfos:
+    - resourceType: 1
+      minAmount: 60
+      maxAmount: 80
+    - resourceType: 2
+      minAmount: 15
+      maxAmount: 25
+  - grade: 4
+    minGateAreaAmount: 8
+    maxGateAreaAmount: 13
+    maxPartySize: 18
+    combatRoomPercentage: 0.9
+    enemyCreators:
+    - {fileID: 11400000, guid: e4d916eb2ff7b8b47a0551596fdd66a8, type: 2}
+    minEnemyAmount: 25
+    maxEnemyAmount: 40
+    baseMultiplier: 0.65
+    resourceInfos:
+    - resourceType: 1
+      minAmount: 80
+      maxAmount: 100
+    - resourceType: 2
+      minAmount: 25
+      maxAmount: 30
+  - grade: 5
+    minGateAreaAmount: 8
+    maxGateAreaAmount: 15
+    maxPartySize: 20
+    combatRoomPercentage: 0.9
+    enemyCreators:
+    - {fileID: 11400000, guid: e4d916eb2ff7b8b47a0551596fdd66a8, type: 2}
+    minEnemyAmount: 25
+    maxEnemyAmount: 45
+    baseMultiplier: 0.6
+    resourceInfos:
+    - resourceType: 1
+      minAmount: 100
+      maxAmount: 125
+    - resourceType: 2
+      minAmount: 35
+      maxAmount: 45
+  - grade: 6
+    minGateAreaAmount: 8
+    maxGateAreaAmount: 20
+    maxPartySize: 25
+    combatRoomPercentage: 0.9
+    enemyCreators:
+    - {fileID: 11400000, guid: e4d916eb2ff7b8b47a0551596fdd66a8, type: 2}
+    minEnemyAmount: 30
+    maxEnemyAmount: 50
+    baseMultiplier: 0.5
+    resourceInfos:
+    - resourceType: 1
+      minAmount: 125
+      maxAmount: 150
+    - resourceType: 2
+      minAmount: 50
+      maxAmount: 70
+  maxGateCount: 15
+  gatePerPoint: 200
+  maxDailyPoint: 250
+  baseMaxDailyPoint: 11
+  baseMinDailyPoint: 10
+  extraPointPerYear: 10
+  basePointPerCharacter: 1.1
+  minDistanceToCity: 3
+  maxDistanceToCity: 5
+  maxDistanceIncreasePerYear: 2

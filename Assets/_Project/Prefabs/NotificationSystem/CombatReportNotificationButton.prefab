@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3528742877682493939
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4001542435941424974, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001542435941424974, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001542435941424974, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001542435941424974, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001542435941424974, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7919414213843728505, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_Name
+      value: CombatReportNotificationButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 9036300014147560750, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3913229a660ff0f4e842bbb278a76672,
+        type: 3}
+    - target: {fileID: 9036300014147560750, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7919414213843728505, guid: 1baea19caad1cf142b283488190a1014,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 549816306903794509}
+  m_SourcePrefab: {fileID: 100100000, guid: 1baea19caad1cf142b283488190a1014, type: 3}
+--- !u!1 &6710352139264315786 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7919414213843728505, guid: 1baea19caad1cf142b283488190a1014,
+    type: 3}
+  m_PrefabInstance: {fileID: 3528742877682493939}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &549816306903794509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6710352139264315786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46d19532835995e408c02ce9e950d301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 7893839235429435657}
+--- !u!114 &7893839235429435657 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6734024958267384058, guid: 1baea19caad1cf142b283488190a1014,
+    type: 3}
+  m_PrefabInstance: {fileID: 3528742877682493939}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6710352139264315786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

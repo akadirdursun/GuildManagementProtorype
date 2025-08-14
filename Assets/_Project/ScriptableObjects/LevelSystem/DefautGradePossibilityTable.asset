@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e26e37b4f8bc4702a6a8ddc5b8fc7798, type: 3}
+  m_Name: DefautGradePossibilityTable
+  m_EditorClassIdentifier: 
+  randomGradeElements:
+  - grade: 0
+    possibility: 40
+    elements:
+    - grade: 0
+      possibility: 45
+    - grade: 1
+      possibility: 40
+    - grade: 2
+      possibility: 18
+    - grade: 3
+      possibility: 7
+    - grade: 4
+      possibility: 5
+    - grade: 5
+      possibility: 4
+    - grade: 6
+      possibility: 1
+  - grade: 1
+    possibility: 40
+    elements:
+    - grade: 1
+      possibility: 35
+    - grade: 2
+      possibility: 40
+    - grade: 3
+      possibility: 15
+    - grade: 4
+      possibility: 5
+    - grade: 5
+      possibility: 4
+    - grade: 6
+      possibility: 1
+  - grade: 2
+    possibility: 35
+    elements:
+    - grade: 2
+      possibility: 30
+    - grade: 3
+      possibility: 45
+    - grade: 4
+      possibility: 15
+    - grade: 5
+      possibility: 9
+    - grade: 6
+      possibility: 1
+  - grade: 3
+    possibility: 15
+    elements:
+    - grade: 3
+      possibility: 30
+    - grade: 4
+      possibility: 20
+    - grade: 5
+      possibility: 9
+    - grade: 6
+      possibility: 1
+  - grade: 4
+    possibility: 5
+    elements:
+    - grade: 4
+      possibility: 20
+    - grade: 5
+      possibility: 9
+    - grade: 6
+      possibility: 1
+  - grade: 5
+    possibility: 4
+    elements:
+    - grade: 5
+      possibility: 9
+    - grade: 6
+      possibility: 1
+  - grade: 6
+    possibility: 1
+    elements:
+    - grade: 6
+      possibility: 1

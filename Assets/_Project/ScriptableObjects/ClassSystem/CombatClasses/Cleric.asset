@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61c88795a72f0944bb3d785c1619d55, type: 3}
+  m_Name: Cleric
+  m_EditorClassIdentifier: 
+  id: 784a896a-5330-4970-96a3-f481f737ba4a
+  className: Cleric
+  classIcon: {fileID: 21300000, guid: 0d74bf5653b6cab41ae7b2c321c47bd1, type: 3}
+  availableEquipments:
+    headArmors:
+    - {fileID: 11400000, guid: fcfbd79e803d11b4d843248df3fd2886, type: 2}
+    bodyArmors:
+    - {fileID: 11400000, guid: ed5781d53f746e948962cf9f22b7326d, type: 2}
+    footArmors:
+    - {fileID: 11400000, guid: 02747b9737fd6c744b0090bc9f88ed14, type: 2}
+    mainHandWeapons:
+    - {fileID: 11400000, guid: e4541e503b368f046a59e837f596d54a, type: 2}
+    - {fileID: 11400000, guid: 32cdf8da7cf17b640b29a5cda4c81800, type: 2}
+    offHandWeapons:
+    - {fileID: 11400000, guid: 8a654c64b688a1e469d814b645e28807, type: 2}
+  headArmors:
+  - {fileID: 11400000, guid: fcfbd79e803d11b4d843248df3fd2886, type: 2}
+  bodyArmors:
+  - {fileID: 11400000, guid: ed5781d53f746e948962cf9f22b7326d, type: 2}
+  foodArmors:
+  - {fileID: 11400000, guid: 02747b9737fd6c744b0090bc9f88ed14, type: 2}
+  mainHandWeapons:
+  - {fileID: 11400000, guid: e4541e503b368f046a59e837f596d54a, type: 2}
+  - {fileID: 11400000, guid: 32cdf8da7cf17b640b29a5cda4c81800, type: 2}
+  offHandWeapons:
+  - {fileID: 11400000, guid: 8a654c64b688a1e469d814b645e28807, type: 2}

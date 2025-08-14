@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58fe3b9d93125408cca16b5de7028f, type: 3}
+  m_Name: Goblin_EnemyTypeSpawner
+  m_EditorClassIdentifier: 
+  gradeTable: {fileID: 11400000, guid: c494ba2ffdd02a0498ff9ac5057fd23e, type: 2}
+  enemyTypeInfos:
+  - name: Goblin
+    minGrade: 0
+    combatType: 0
+    attributePointData: {fileID: 11400000, guid: 9b41bbc133ac3164092cdf7388f25892,
+      type: 2}
+    attributeOrder:
+      attributeTypes: 0000000002000000010000000300000004000000
+  - name: Goblin Ranger
+    minGrade: 0
+    combatType: 1
+    attributePointData: {fileID: 11400000, guid: 9b41bbc133ac3164092cdf7388f25892,
+      type: 2}
+    attributeOrder:
+      attributeTypes: 0200000000000000010000000300000004000000
+  - name: Hobgoblin
+    minGrade: 2
+    combatType: 0
+    attributePointData: {fileID: 11400000, guid: 935aaaefa177c3548b95204c33e66cf4,
+      type: 2}
+    attributeOrder:
+      attributeTypes: 0100000000000000020000000300000004000000
+  - name: Goblin Shamans
+    minGrade: 3
+    combatType: 2
+    attributePointData: {fileID: 11400000, guid: 6a31db7c084d10549a3c06126333445b,
+      type: 2}
+    attributeOrder:
+      attributeTypes: 0400000003000000020000000000000001000000

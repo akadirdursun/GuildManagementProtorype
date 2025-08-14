@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61c88795a72f0944bb3d785c1619d55, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  id: 8518f00a-f39f-4f05-9d97-034aeda90cec
+  className: Knight
+  classIcon: {fileID: 21300000, guid: b32607ad5407d94438786a7e4179ff09, type: 3}
+  availableEquipments:
+    headArmors:
+    - {fileID: 11400000, guid: fcfbd79e803d11b4d843248df3fd2886, type: 2}
+    bodyArmors:
+    - {fileID: 11400000, guid: ed5781d53f746e948962cf9f22b7326d, type: 2}
+    footArmors:
+    - {fileID: 11400000, guid: 02747b9737fd6c744b0090bc9f88ed14, type: 2}
+    mainHandWeapons:
+    - {fileID: 11400000, guid: e4541e503b368f046a59e837f596d54a, type: 2}
+    - {fileID: 11400000, guid: a693f530032b4314382b119983f22750, type: 2}
+    offHandWeapons:
+    - {fileID: 11400000, guid: 8a654c64b688a1e469d814b645e28807, type: 2}
+  headArmors:
+  - {fileID: 11400000, guid: fcfbd79e803d11b4d843248df3fd2886, type: 2}
+  bodyArmors:
+  - {fileID: 11400000, guid: ed5781d53f746e948962cf9f22b7326d, type: 2}
+  foodArmors:
+  - {fileID: 11400000, guid: 02747b9737fd6c744b0090bc9f88ed14, type: 2}
+  mainHandWeapons:
+  - {fileID: 11400000, guid: e4541e503b368f046a59e837f596d54a, type: 2}
+  - {fileID: 11400000, guid: a693f530032b4314382b119983f22750, type: 2}
+  offHandWeapons:
+  - {fileID: 11400000, guid: 8a654c64b688a1e469d814b645e28807, type: 2}

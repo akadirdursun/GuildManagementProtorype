@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60ceed496245ab14bb951a0446d8ccb7, type: 3}
+  m_Name: InventoryStorage
+  m_EditorClassIdentifier: 
+  playerInventory:
+    slots:
+    - id: 0
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 1
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 2
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 3
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 4
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 5
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 6
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 7
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 8
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 9
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 10
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 11
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 12
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 13
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 14
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 15
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 16
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 17
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 18
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 19
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 20
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 21
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 22
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 23
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 24
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 25
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 26
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 27
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 28
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+    - id: 29
+      itemData: {fileID: 0}
+      itemAmount: 0
+      itemLevel: 0
+      durability: 0
+  itemDatabase: {fileID: 11400000, guid: 321e9c656181bfb4a93f5b52eee07b54, type: 2}

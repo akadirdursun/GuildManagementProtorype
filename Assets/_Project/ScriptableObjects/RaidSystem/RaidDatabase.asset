@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c3bfd9b1434623a1a7c7a1a3045ffb, type: 3}
+  m_Name: RaidDatabase
+  m_EditorClassIdentifier: 
+  raidData: {fileID: 11400000, guid: 9eea511440ac3d846a894cb2ef48020f, type: 2}
+  hexMapData: {fileID: 11400000, guid: 53a4508369f58d84a8264a389df6da51, type: 2}
+  raids: []

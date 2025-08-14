@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3674e872b5a7fe742a528501560f9dce, type: 3}
+  m_Name: SelectedCharacterData
+  m_EditorClassIdentifier: 
+  selectedCharacterInfo:
+    name: 
+    health:
+      maxValue:
+        value: 0
+        baseValue: 0
+        totalEffectAddition: 0
+        totalEffectMultiplier: 0
+      recoveryPerHour:
+        value: 0
+        baseValue: 0
+        totalEffectAddition: 0
+        totalEffectMultiplier: 0
+      currentValue: 0
+    stamina:
+      maxValue:
+        value: 0
+        baseValue: 0
+        totalEffectAddition: 0
+        totalEffectMultiplier: 0
+      recoveryPerHour:
+        value: 0
+        baseValue: 0
+        totalEffectAddition: 0
+        totalEffectMultiplier: 0
+      currentValue: 0
+    mana:
+      maxValue:
+        value: 0
+        baseValue: 0
+        totalEffectAddition: 0
+        totalEffectMultiplier: 0
+      recoveryPerHour:
+        value: 0
+        baseValue: 0
+        totalEffectAddition: 0
+        totalEffectMultiplier: 0
+      currentValue: 0
+    characterAttributes:
+      strength:
+        currentLevel:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+        potentialLevel: 0
+        grade: 0
+      constitution:
+        currentLevel:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+        potentialLevel: 0
+        grade: 0
+      agility:
+        currentLevel:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+        potentialLevel: 0
+        grade: 0
+      intelligence:
+        currentLevel:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+        potentialLevel: 0
+        grade: 0
+      magic:
+        currentLevel:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+        potentialLevel: 0
+        grade: 0
+      damage:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      damageReduction:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      accuracy:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      dodge:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      criticalHitChance:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      damageReflect:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      counterChance:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      actionSpeed:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+      manaCostReduction:
+        value:
+          value: 0
+          baseValue: 0
+          totalEffectAddition: 0
+          totalEffectMultiplier: 0
+    equipments:
+      helmet: {}
+      chestplate: {}
+      boots: {}
+      mainHand: {}
+      offHand: {}

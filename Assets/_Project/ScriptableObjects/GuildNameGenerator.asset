@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c489399b4a554bd4af116a6fc94066e1, type: 3}
+  m_Name: GuildNameGenerator
+  m_EditorClassIdentifier: 
+  guildNames:
+  - Abysswalkers
+  - Arcane Vanguard
+  - Astral Hunters
+  - Black Phoenix Order
+  - Blazing Aegis
+  - Celestial Blades
+  - Chaosbound Legion
+  - Chrono Wardens
+  - Crimson Gatekeepers
+  - Dawnbringer Guild
+  - Dimensional Sentinels
+  - Dragonshade Order
+  - Duskweavers
+  - Ebon Horizon
+  - Eclipse Syndicate
+  - Eldergate Pact
+  - Eternal Riftseekers
+  - Exiled Wardens
+  - Fateforged Brotherhood
+  - Frostspire Clan
+  - Gatebreakers
+  - Gatewatch Covenant
+  - Ghostspire Enclave
+  - Gilded Horizon
+  - Grimshade Collective
+  - Hellforge Vanguard
+  - Hollow Veil Consortium
+  - Ironflame Covenant
+  - Jade Serpents
+  - "Keeper\u2019s Accord"
+  - Lightforge Assembly
+  - Lunar Edge Alliance
+  - Midnight Eclipse
+  - Moonveil Order
+  - Nexus Blades
+  - Nightshade Pact
+  - Obsidian Spear
+  - "Oracle\u2019s Veil"
+  - Outcast Seekers
+  - Phantom Vanguard
+  - Prismatic Legion
+  - Radiant Wardens
+  - Riftborn Sovereigns
+  - Riftshard Alliance
+  - Runeforge Assembly
+  - Sacred Shadows
+  - Sapphire Arbiters
+  - Shadow Reavers
+  - Shattered Path Guild
+  - Silvergate Seekers
+  - Skyborne Sentinels
+  - Solar Ascendants
+  - Soulforge Syndicate
+  - Starfall Vanguard
+  - Starlight Sentinels
+  - Stormspire Covenant
+  - Tempest Wardens
+  - The Eternal Fold
+  - The Forgotten Oath
+  - The Gatebound Pact
+  - The Gilded Chains
+  - The Riftseekers
+  - The Shattered Blade
+  - The Twilight Accord
+  - Thornspire Order
+  - Thunderborn Vanguard
+  - "Titan\u2019s Veil"
+  - Umbra Seekers
+  - Veilbreakers
+  - Voidwalkers
+  - "Warlock\u2019s Edge"
+  - Whispering Dawn
+  - Wildstorm Sentinels
+  - Wyrmgate Consortium
+  - Zenith Alliance
+  - Zephyr Wardens
+  - Abyssforged Ascendants
+  - Arcane Fangs
+  - Bloodbound Keepers
+  - Chronospire Collective
+  - Crimson Fang Legion
+  - Dawnshard Covenant
+  - Emberflame Pact
+  - Etherborne Alliance
+  - Frostgate Vanguard
+  - Hollowgate Reavers
+  - Infernal Aegis
+  - Moonshadow Pact
+  - Netherveil Order
+  - Obsidian Wardens
+  - Phantomgate Seekers
+  - Primal Riftwalkers
+  - Radiant Horizon
+  - Runeshard Keepers
+  - Soulborne Pact
+  - Spectral Legion
+  - Stormveil Syndicate
+  - The Eternal Rift
+  - Twilight Reapers
+  - Voidspire Ascendants
+  filePath: Assets/_Project/TextFiles/Names/GuildNames/GuildNames.json

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf74fe674e922e949a20da90b0551340, type: 3}
+  m_Name: HexMapData
+  m_EditorClassIdentifier: 
+  hexGridSettings: {fileID: 11400000, guid: f37161dd39bcc6845970904b87974654, type: 2}
+  hexTypes:
+  - hexType: 0
+    cellPrefabs:
+    - distance: 0
+      cellPrefab: {fileID: 5074286430998415627, guid: 7904ead24e50418428793cb24e02e29e,
+        type: 3}
+  - hexType: 1
+    cellPrefabs:
+    - distance: 0
+      cellPrefab: {fileID: 5888037717765574870, guid: 330d00c22459c96418ddefeb80a4a2d6,
+        type: 3}
+  - hexType: 2
+    cellPrefabs:
+    - distance: 0
+      cellPrefab: {fileID: 4731016648445594261, guid: 0ff59ccabdcedb44b891234c94d3da53,
+        type: 3}
+  - hexType: 3
+    cellPrefabs:
+    - distance: 0
+      cellPrefab: {fileID: 5074286430998415627, guid: 04e5997c16bb91e46a618e9560416479,
+        type: 3}
+  - hexType: 4
+    cellPrefabs:
+    - distance: 0
+      cellPrefab: {fileID: 5074286430998415627, guid: f6a47af083f266345b2afa68beef138e,
+        type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a394cd0af7bcc4041adc357d7197a0aa, type: 3}
+  m_Name: CharacterAwakenController
+  m_EditorClassIdentifier: 
+  gradeTable: {fileID: 11400000, guid: c494ba2ffdd02a0498ff9ac5057fd23e, type: 2}
+  characterDatabase: {fileID: 11400000, guid: a8a7eacdc1a96774cad44e5362865599, type: 2}
+  characterModelRandomizer: {fileID: 11400000, guid: c8b59a4ca6fb0fd45b37f6623609a248,
+    type: 2}
+  characterNameGenerator: {fileID: 11400000, guid: aba3672a30928e54e81f0b7e892143ef,
+    type: 2}
+  characterAttributePointData: {fileID: 11400000, guid: 08bb42ffe231e0643ac8af1a5ded41f8,
+    type: 2}
+  attributeOrders:
+  - attributeTypes: 0000000001000000020000000300000004000000
+  - attributeTypes: 0200000000000000010000000300000004000000
+  - attributeTypes: 0300000004000000000000000100000002000000

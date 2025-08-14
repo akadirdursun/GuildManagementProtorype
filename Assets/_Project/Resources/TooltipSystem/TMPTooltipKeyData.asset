@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54c7e8e644a49bcae67c154691b0996, type: 3}
+  m_Name: TMPTooltipKeyData
+  m_EditorClassIdentifier: 
+  tooltipLinkInfos:
+  - key: HealthPoint
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Health Point
+    description: Numerical representation of how much damage your character can take
+      before go out of existence
+  - key: Stamina
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Stamina
+    description: Limits the actions a character can perform.
+  - key: Mana
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Mana
+    description: Resource that characters need to perform magic actions(abilities
+      etc.).
+  - key: Strength
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Strength
+    description: Increase phsical damage and physical defense.
+  - key: Constitution
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Constitution
+    description: Increase Health point and stamina.
+  - key: Agility
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Agility
+    description: Increase Phsical Attack Speed, Dodge and Hit  Chances
+  - key: Intelligence
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Intelligence
+    description: Increase magic channeling speed and magic damage
+  - key: Magic
+    prefab: {fileID: 1006187823010419413, guid: be65a142242421f40b14000409fc4b8c,
+      type: 3}
+    title: Magic
+    description: Increase mana capasity and magic defense
+  tooltipCharacterInfos: []

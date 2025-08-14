@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9441aff8ef38404ea8ec297ecb94c21c, type: 3}
+  m_Name: Population
+  m_EditorClassIdentifier: 
+  id: 21a0dafa-a7f2-4b8a-bb3a-11f0c64cd934
+  defaultResourceAmounts:
+    resourceAmount: 3
+    gainPerHour: 0
+  resourceName: Population
+  resourceIcon: {fileID: 21300000, guid: 804fb2032b81aef43b9b3169cf6e794f, type: 3}
+  amount: 0
+  gainPerHour: 0

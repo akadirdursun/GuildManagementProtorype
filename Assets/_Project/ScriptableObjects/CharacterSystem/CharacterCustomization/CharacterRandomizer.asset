@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7df69259c89d0408e526507efc91c6, type: 3}
+  m_Name: CharacterRandomizer
+  m_EditorClassIdentifier: 
+  hairMeshes:
+  - {fileID: 4300058, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300060, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300062, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300064, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300066, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300068, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300070, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300072, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300074, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300076, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300078, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300080, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300082, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300084, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300086, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300088, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300090, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300092, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300094, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300096, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300098, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300100, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300102, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300104, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300106, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300108, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300110, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300112, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300114, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300116, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300118, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300120, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300122, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300124, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300126, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300128, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300130, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300132, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  maleHeadMeshes:
+  - {fileID: 4301026, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300008, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300010, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300406, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300012, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300410, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300412, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300414, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300376, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300014, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300398, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300378, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300380, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300022, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300056, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300054, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300382, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300384, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300386, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300388, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300390, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300392, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300394, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  maleEyebrowMeshes:
+  - {fileID: 4300420, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300422, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300424, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300426, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300428, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300430, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300432, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300434, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300436, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300438, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  maleFacialHearMeshes:
+  - {fileID: 4301342, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301344, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301346, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301348, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301350, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301352, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301354, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301356, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301358, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301360, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301362, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301364, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301366, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301368, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301370, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301372, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301374, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301376, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  femaleHeadMeshes:
+  - {fileID: 4301056, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300982, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300984, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300986, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300988, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300990, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300980, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300992, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300954, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300996, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300976, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300956, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300958, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301080, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301082, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4301084, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300960, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300962, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300964, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300966, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300968, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300970, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4300972, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  femaleEyebrowMeshes:
+  - {fileID: 4302116, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4302118, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4302120, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4302122, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4302124, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4302126, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  - {fileID: 4302128, guid: 038320a534bd8b444b43734860d1a211, type: 3}
+  skinColors:
+  - {r: 1, g: 0.8, b: 0.68235296, a: 0}
+  - {r: 0.81960785, g: 0.63529414, b: 0.45882353, a: 0}
+  - {r: 0.5647059, g: 0.40784314, b: 0.3137255, a: 0}
+  hairColors:
+  - {r: 0.30980393, g: 0.25490198, b: 0.1764706, a: 0}
+  - {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0}
+  - {r: 0.83137256, g: 0.62352943, b: 0.36078432, a: 0}
+  - {r: 0.8901961, g: 0.78039217, b: 0.54901963, a: 0}
+  - {r: 0.8, g: 0.81960785, b: 0.80784315, a: 0}
+  - {r: 0.6862745, g: 0.4, b: 0.23529412, a: 0}
+  - {r: 0.54509807, g: 0.42745098, b: 0.21568628, a: 0}
+  - {r: 0.84705883, g: 0.46666667, b: 0.24705882, a: 0}
